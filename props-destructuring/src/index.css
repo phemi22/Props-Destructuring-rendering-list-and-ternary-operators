@@ -1,0 +1,24 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  letter-spacing: -0.6px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.h1{
+  color: gray;
+  font-size: 1.1rem;
+}
+
+.p{
+  color: blue;
+  font-size: 1rem;
+}
+
+.container{
+  padding: 3rem;
+  background-color: #f8f8f8;
+  border-bottom: 1px solid #d7d7d7;
+  border-radius: 3rem;
+}
